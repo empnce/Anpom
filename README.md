@@ -49,3 +49,11 @@ Interfaces intuitivas y diseño responsivo para su uso en dispositivos móviles 
 *4. Integración:*
 Posibilidad de integrarse con sistemas externos como plataformas de logística o facturación electrónica.
 
+## *MODELO RELACIONAL*
+![image](https://github.com/user-attachments/assets/3270db58-7edb-4570-a171-bfbe48395e9e)
+![image](https://github.com/user-attachments/assets/0e932917-9a49-49fb-8b99-333976a5e4ac)
+
+## DESARROLLO DEL PROYECTO
+
+
+
