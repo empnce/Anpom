@@ -17,3 +17,35 @@ Esto no solo aumenta el riesgo de errores humanos, como el cálculo incorrecto d
 
 Además, la personalización de pedidos es un valor diferenciador clave para la empresa, ya que muchos clientes solicitan combinaciones específicas de sabores, empaques o etiquetas personalizadas. 
 Sin un sistema adecuado, este proceso se vuelve complicado, generando demoras en la producción y errores en los pedidos, lo que afecta la satisfacción del cliente.
+
+# *ANÁLISIS DEL REQUERIMIENTOS*
+## Requerimientos Funcionales: 
+*1. Módulo de Gestión de Inventarios:*
+Registro y seguimiento de materias primas.
+Control de productos terminados con actualizaciones automáticas al realizar ventas.
+
+*2. Módulo de Gestión de Pedidos:*
+Registro de pedidos personalizados y estándar.
+Generación automática de órdenes de producción basadas en los pedidos.
+
+*3. Portal de Ventas:*
+E-commerce para clientes finales con filtros por tipo de galleta, sabor, empaques, etc.
+Métodos de pago integrados y notificaciones automáticas de estado de pedido.
+
+*4- Sistema de Reportes:*
+Visualización de datos clave como productos más vendidos, inventario restante y ganancias.
+Generación de reportes descargables en formatos como PDF o Excel.
+
+## Requerimientos No Funcionales:
+*1. Escalabilidad:*
+La aplicación debe soportar un aumento en la cantidad de usuarios y pedidos sin pérdida de rendimiento.
+
+*2. Seguridad:*
+Implementar autenticación y autorización de usuarios, así como encriptación de datos sensibles.
+
+*3. Facilidad de Uso:*
+Interfaces intuitivas y diseño responsivo para su uso en dispositivos móviles y escritorio.
+
+*4. Integración:*
+Posibilidad de integrarse con sistemas externos como plataformas de logística o facturación electrónica.
+
