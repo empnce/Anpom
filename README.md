@@ -56,7 +56,8 @@ Posibilidad de integrarse con sistemas externos como plataformas de logística o
 ## DESARROLLO DEL PROYECTO
 ![image](https://github.com/user-attachments/assets/4dcff8cd-d364-4dc2-a8c2-2ea7e43209d2)
 ![image](https://github.com/user-attachments/assets/c922f97a-1276-4056-a2c8-8a21363880ce)
-![image](https://github.com/user-attachments/assets/e1c693db-77c6-40ec-a094-3995e82f7aea)
+![image](https://github.com/user-attachments/assets/11917721-1b82-4741-a7f7-cab86a4257de)
+
 
 
 
